@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\Basic_C#_Programs\Hi Mark\Hi Mark\bin\Debug\Hi Mark.exe.config
+C:\Users\Student\Documents\GitHub\Basic_C#_Programs\Hi Mark\Hi Mark\bin\Debug\Hi Mark.exe
+C:\Users\Student\Documents\GitHub\Basic_C#_Programs\Hi Mark\Hi Mark\bin\Debug\Hi Mark.pdb
+C:\Users\Student\Documents\GitHub\Basic_C#_Programs\Hi Mark\Hi Mark\obj\Debug\Hi Mark.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\Basic_C#_Programs\Hi Mark\Hi Mark\obj\Debug\Hi Mark.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\Basic_C#_Programs\Hi Mark\Hi Mark\obj\Debug\Hi Mark.exe
+C:\Users\Student\Documents\GitHub\Basic_C#_Programs\Hi Mark\Hi Mark\obj\Debug\Hi Mark.pdb
