@@ -1,0 +1,13 @@
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathOne\MathOne\bin\Debug\netcoreapp3.1\MathOne.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathOne\MathOne\bin\Debug\netcoreapp3.1\MathOne.deps.json
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathOne\MathOne\bin\Debug\netcoreapp3.1\MathOne.runtimeconfig.json
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathOne\MathOne\bin\Debug\netcoreapp3.1\MathOne.runtimeconfig.dev.json
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathOne\MathOne\bin\Debug\netcoreapp3.1\MathOne.dll
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathOne\MathOne\bin\Debug\netcoreapp3.1\MathOne.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathOne\MathOne\obj\Debug\netcoreapp3.1\MathOne.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathOne\MathOne\obj\Debug\netcoreapp3.1\MathOne.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathOne\MathOne\obj\Debug\netcoreapp3.1\MathOne.AssemblyInfo.cs
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathOne\MathOne\obj\Debug\netcoreapp3.1\MathOne.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathOne\MathOne\obj\Debug\netcoreapp3.1\MathOne.dll
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathOne\MathOne\obj\Debug\netcoreapp3.1\MathOne.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathOne\MathOne\obj\Debug\netcoreapp3.1\MathOne.genruntimeconfig.cache
