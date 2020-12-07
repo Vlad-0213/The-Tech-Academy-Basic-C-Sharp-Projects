@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Assigment 194\Assigment 194\bin\Debug\Assigment 194.exe.config
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Assigment 194\Assigment 194\bin\Debug\Assigment 194.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Assigment 194\Assigment 194\bin\Debug\Assigment 194.pdb
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Assigment 194\Assigment 194\obj\Debug\Assigment 194.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Assigment 194\Assigment 194\obj\Debug\Assigment 194.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Assigment 194\Assigment 194\obj\Debug\Assigment 194.exe
+C:\Users\Student\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Assigment 194\Assigment 194\obj\Debug\Assigment 194.pdb
