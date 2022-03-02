@@ -1,0 +1,7 @@
+C:\Users\vladd\source\repos\String 231\String 231\bin\Debug\String 231.exe.config
+C:\Users\vladd\source\repos\String 231\String 231\bin\Debug\String 231.exe
+C:\Users\vladd\source\repos\String 231\String 231\bin\Debug\String 231.pdb
+C:\Users\vladd\source\repos\String 231\String 231\obj\Debug\String 231.csproj.AssemblyReference.cache
+C:\Users\vladd\source\repos\String 231\String 231\obj\Debug\String 231.csproj.CoreCompileInputs.cache
+C:\Users\vladd\source\repos\String 231\String 231\obj\Debug\String 231.exe
+C:\Users\vladd\source\repos\String 231\String 231\obj\Debug\String 231.pdb
